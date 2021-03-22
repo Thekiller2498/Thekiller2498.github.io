@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Mar 2021 00:10:04 at https://tam-shellshock.swell.cl +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tam-shellshock.swell.cl -O1 "C:\Users\Maaz\Desktop\https___tam-shellshock.swell.cl" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:10:42	Error: 	"Not Found" (404) at link https://example.com/crazygames-sdk-v1.js (from https://tam-shellshock.swell.cl/)
+00:10:42	Error: 	"Not Found" (404) at link example.com/libs/aiptag/pub/SSK/shellshock.io/tag.min.js (from https://tam-shellshock.swell.cl/)
+00:10:42	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://tam-shellshock.swell.cl/)
+00:10:46	Error: 	"Not Found" (404) at link https://example.com/sdks/OneSignalSDK.js (from https://tam-shellshock.swell.cl/)
+00:10:46	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/favicon256.png (from https://tam-shellshock.swell.cl/)
+00:10:46	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/GET (from https://tam-shellshock.swell.cl/)
+00:10:46	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/parent (from https://tam-shellshock.swell.cl/)
+00:10:46	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/thesuperstatic.gq/websocket/ (from https://tam-shellshock.swell.cl/)
+00:10:46	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/onebigstatic-tmm.tbt.mx/websocket/ (from https://tam-shellshock.swell.cl/)
+00:10:53	Error: 	"Forbidden" (403) at link https://tam-shellshock.swell.cl/maps/ (from https://tam-shellshock.swell.cl/)
+00:10:53	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/styles/img/ico_chicken.png (from https://tam-shellshock.swell.cl/styles/style.css?1615827388)
+00:10:53	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/POST (from https://connect.facebook.net/en_US/fbevents.js)
+00:10:53	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/app_nugget/thesuperstatic.gq/websocket/ (from https://tam-shellshock.swell.cl/app_nugget/index.html)
+00:10:53	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/app_nugget/GET (from https://tam-shellshock.swell.cl/app_nugget/index.html)
+00:10:53	Error: 	"Not Found" (404) at link https://tam-shellshock.swell.cl/app_nugget/onebigstatic-tmm.tbt.mx/websocket/ (from https://tam-shellshock.swell.cl/app_nugget/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 92 links scanned, 76 files written (8506489 bytes overall) [8470083 bytes received at 154001 bytes/sec], 156079 bytes transferred using HTTP compression in 5 files, ratio 24%, 4.0 requests per connection
+(15 errors, 0 warnings, 0 messages)
