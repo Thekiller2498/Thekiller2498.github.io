@@ -1,0 +1,1 @@
+No Content: https://example.com/crazygames-sdk-v1.js
